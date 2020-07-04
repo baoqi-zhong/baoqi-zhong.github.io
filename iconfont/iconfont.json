@@ -1,0 +1,93 @@
+{
+  "id": "1922362",
+  "name": "personal page",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "122883",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "180555",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7952570",
+      "name": "实验器材-烧杯",
+      "font_class": "shiyanqicai-shaobei",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "8565979",
+      "name": "物联网",
+      "font_class": "wulianwang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12978623",
+      "name": "神经网络",
+      "font_class": "shenjingwangluo",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13851016",
+      "name": "自动化",
+      "font_class": "zidonghua",
+      "unicode": "e846",
+      "unicode_decimal": 59462
+    },
+    {
+      "icon_id": "14104322",
+      "name": "adobephotoshop",
+      "font_class": "adobephotoshop",
+      "unicode": "e9ae",
+      "unicode_decimal": 59822
+    },
+    {
+      "icon_id": "2494151",
+      "name": "adb-aftereffects",
+      "font_class": "adb-aftereffects",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "3876518",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "9895351",
+      "name": "arduino",
+      "font_class": "arduino",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "11493418",
+      "name": "python",
+      "font_class": "python",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "13553421",
+      "name": "bilibili-fill",
+      "font_class": "bilibili-fill",
+      "unicode": "eea8",
+      "unicode_decimal": 61096
+    }
+  ]
+}

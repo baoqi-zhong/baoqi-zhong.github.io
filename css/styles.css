@@ -444,16 +444,13 @@ mark,
 }
 
 .list-inline {
-  padding-left: 0;
   list-style: none;
 }
 
 .list-inline-item {
   display: inline-block;
 }
-.list-inline-item:not(:last-child) {
-  margin-right: 0.5rem;
-}
+
 
 .initialism {
   font-size: 90%;
@@ -10084,6 +10081,14 @@ p.lead {
     display: block;
   }
 }
+
+.tools {
+  font-size: 3rem;
+}
+.chemistry {
+  font-size: 3rem;
+}
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -10093,7 +10098,8 @@ p.lead {
   background-color: #495057;
   color: #fff;
   border-radius: 100%;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  text-decoration:none;
   margin-right: 1.5rem;
 }
 .social-icons .social-icon:last-child {
@@ -10104,7 +10110,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 10rem;
 }
 
 section.resume-section {
@@ -10114,7 +10120,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 100rem;
 }
 section.resume-section .resume-section-content {
   width: 100%;
