@@ -27,7 +27,7 @@ My core interest is in Robotics and Automation. Especially focuses on embedded h
 BEng in Computer Engineering | GPA: 3.8/4.3
 
 
-# Research Experience
+# 🔬 Research Experience
 - *2025.03-2025.07* Advisor: [Prof. Qiye Zheng](https://seng.hkust.edu.hk/about/people/faculty/qiye-zheng).
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Projects/ThermalMemristor.jpg' alt="ThermalMemristor" width="100%"></div></div>
