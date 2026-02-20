@@ -28,7 +28,7 @@ BEng in Computer Engineering | GPA: 3.8/4.3
 
 
 # 🔬 Research Experience
-- *2025.03-2025.07* Advisor: [Prof. Qiye Zheng](https://seng.hkust.edu.hk/about/people/faculty/qiye-zheng).
+- *2025.03 - 2025.07* Advisor: [Prof. Qiye Zheng](https://seng.hkust.edu.hk/about/people/faculty/qiye-zheng).
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Projects/ThermalMemristor.jpg' alt="ThermalMemristor" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +62,7 @@ Designed **custom software for a heat flux sensor**, enabling synchronized multi
 
 
 # 💻 Internship
-- *2025.09-now*, **HDSmart Technology Co., Ltd.** Shenzhen, China.  
+- *2025.09 - now*, **HDSmart Technology Co., Ltd.** Shenzhen, China.  
 Embedded Hardware & Software research and design Intern.  
 Project outcome:  
 
@@ -74,7 +74,7 @@ Project outcome:
 - **Tech stack:** STM32U5, TouchGFX, 4‑layer PCB, Embedded C, CNC machining.
 - **Hardware:** Designed 4-layer PCB with STM32U5 ultra-low-power MCU and capacitive touch panel.
 - **Software:** Developed TouchGFX HAL driver; implemented physics‑based UI drag‑and‑drop for smooth interaction.
-- **Application:** Chinese invention patent pending; demo samples presented to STMicroelectronics for embedded world 2026.
+- **Application:** Chinese invention patent application pending; demo samples presented to STMicroelectronics for embedded world 2026.
 </div>
 </div>
 
@@ -182,12 +182,12 @@ Ziming Xian, **Ziyang Zhong**
 - **Application:** Achieved electrical isolation and mounted on a rotary stage, enabling remote debugging in friction‑testing setups and safe high‑power motor control scenarios.
 </div>
 </div>
-
+f
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Projects/SolarFeeder.jpg' alt="SolarFeeder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Solar-Powered Cat Shelter & Feeder**
-Chinese invention patents and utility model patents pending.
+Chinese invention patents and utility model patents application pending.
 
 - **Tech stack:** PCB design, Solar pannel, Edge computing, Embedded Linux, YOLO.
 - **Hardware:** Developed a custom 4‑layer PCB integrating STM32G4 MCU, 9‑axis IMU, GPS, and high‑precision voltage/current sampling circuits. Implemented a digitally controlled buck converter for adaptive MPPT charging.
@@ -232,9 +232,9 @@ I share how our robotics team uses KiCad as our go-to EDA tool. I covered our fu
 # 🏆️ Honors and Awards
 ## Scholarships
 - *2025.12* Awarded **HKUST's Scholarship Scheme** for Continuing Undergraduate Students (2025/26)
-- *2025.07* Awarded **Hongkong Government Scholarship** - Talent Development Scholarship (TDS) (2024/25)
+- *2025.07* Awarded **Hong Kong Government Scholarship** - Talent Development Scholarship (TDS) (2024/25)
 - *2024.12* Awarded **HKUST's Scholarship Scheme** for Continuing Undergraduate Students (2024/25)
-- *2024.07* Awarded **Hongkong Government Scholarship** - Talent Development Scholarship (TDS) (2023/24)
+- *2024.07* Awarded **Hong Kong Government Scholarship** - Talent Development Scholarship (TDS) (2023/24)
 
 ## Dean’s List
 - *2025* Dean’s List for the School of Engineering (2025-26 Fall)
